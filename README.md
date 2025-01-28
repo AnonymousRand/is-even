@@ -1,7 +1,7 @@
 # Is-Even
 
-The number parity checker endorsed by algorithm professors worldwide.
+The state-of-the-art number parity checker, endorsed by algorithm professors worldwide. Runs in O(n + recursion depth exceeded) time.
 
 # Fixed Bugs
 
-- Implement memoization to prevent stack overflows (if you're careful enough) wait why am i running out of memo
+- Implement memoization to reduce stack overflows wait why am i running out of memo
