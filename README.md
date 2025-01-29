@@ -4,4 +4,4 @@ The state-of-the-art number parity checker, endorsed by algorithm professors wor
 
 # Fixes
 
-- Implement memoization to reduce stack overflows wait why am i running out of memo
+- Implement memoization to reduce stack overflows wait why am i running out of memor
